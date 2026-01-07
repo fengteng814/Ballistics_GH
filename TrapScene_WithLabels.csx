@@ -1,3 +1,5 @@
+// #! csharp
+
 // 02_TrapScene_WithLabels_pure.csx
 // Step 1b — Trap 场景增强（脚点/枪口/竖线/TextDot/边界靶轨/AimLines）
 // 说明：本脚本为“纯 .csx”，不包含 Script_Instance/RunScript。GH 端请把端口命名为下列变量名。
